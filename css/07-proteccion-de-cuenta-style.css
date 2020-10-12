@@ -1,0 +1,99 @@
+body {
+    background-color: #e7e9f3;
+}
+
+.container {
+    background-color: rgb(254, 254, 254);
+    border-radius: 20px;
+    width: 340px;
+    height: 500px;
+    box-shadow: 5px 5px 50px #b3b6c4;
+    margin: 100px 100px;
+    text-align: center;
+    font-family: 'Roboto';
+    padding: 0px;
+}
+
+figure {
+    margin: 0px;
+}
+
+img {
+    padding: 47px 0px 0px 0px;
+    width: 27%;
+    margin: 0px auto;
+}
+
+h2 {
+    font-size: 18px;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+}
+
+.email {
+    font-size: 13px;
+}
+
+.explanation {
+    padding: 13px 60px 0px 60px;
+    line-height: 18px;
+    color: rgb(55, 55, 55);
+    font-size: 12px;
+}
+
+.recovery-box {
+    margin: 22px 50px;
+    text-align: center;
+    width: 240px;
+    height: 115px;
+    border-radius: 7px;
+    background-color: #f1f3f9; 
+    /* background-color: red; */
+}
+
+.recovery {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 13px 0px 0px 0px;
+    margin: 0px;
+}
+
+.rec-email {
+    color: rgb(55, 55, 55);
+    font-size: 12px;
+    padding: 7px;
+    margin: 0px;
+}
+
+.update{
+    width: 120px;
+    height: 27px;
+    margin: 0px 60px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    color: rgb(101, 101, 101);
+    border-color: rgb(108, 108, 108);
+}
+
+.update-text {
+    vertical-align: middle;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.confirm {
+    width: 120px;
+    height: 30px;
+    margin: 30px 110px;
+    background-color: #242f4c;
+    border-radius: 15px;
+    color: rgba(255, 255, 255, 0.788);
+}
+
+.confirm-text {
+    vertical-align: middle;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 100;
+}
